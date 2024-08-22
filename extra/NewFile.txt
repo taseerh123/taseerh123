@@ -1,0 +1,7 @@
+#Raul is very smart!!!
+#Tue Jul 16 01:02:01 CEST 2024
+Age=50
+FirstName=Jackline
+LastName=Middleton
+SSN=891-35-7240
+School=Neotech
